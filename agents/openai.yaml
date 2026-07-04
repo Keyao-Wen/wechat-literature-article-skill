@@ -1,0 +1,8 @@
+interface:
+  display_name: "WeChat Literature Article"
+  short_description: "Draft Chinese WeChat literature articles from papers."
+  brand_color: "#2F7D4A"
+  default_prompt: "Use $wechat-literature-article to turn this academic paper into a Chinese WeChat public-account article with a rigorous title, detailed methods, explained figures, clean Chinese typography, and Word-ready formatting."
+
+policy:
+  allow_implicit_invocation: true
